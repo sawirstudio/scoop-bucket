@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sawirricardo/lazysvn/releases/download/v0.4.0/lazysvn_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/sawirstudio/lazysvn/releases/download/v0.4.1/lazysvn_0.4.1_windows_amd64.zip",
             "bin": [
                 "lazysvn.exe"
             ],
-            "hash": "d0585a66b40dcf931f1b43c150ebdfd58a3bca975000ac4ee48e86be31ce6775"
+            "hash": "06568fa56b8e2f22a426f2216da73de65925da79742641fb3178519ea8ac87ef"
         },
         "arm64": {
-            "url": "https://github.com/sawirricardo/lazysvn/releases/download/v0.4.0/lazysvn_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/sawirstudio/lazysvn/releases/download/v0.4.1/lazysvn_0.4.1_windows_arm64.zip",
             "bin": [
                 "lazysvn.exe"
             ],
-            "hash": "88e2bb5fccbd30a3f719f935d65ef0c3052f813db75fc8255ab16ee199ec5fbe"
+            "hash": "8ee38c6aa7fc571c19fa9dc06d8eadb64a9c50c54c362b56c6acf62fc723af92"
         }
     },
     "homepage": "https://lazysvn.sawirstudio.com",
