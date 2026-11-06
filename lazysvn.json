@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sawirricardo/lazysvn/releases/download/v0.4.0/lazysvn_0.4.0_windows_amd64.zip",
+            "bin": [
+                "lazysvn.exe"
+            ],
+            "hash": "d0585a66b40dcf931f1b43c150ebdfd58a3bca975000ac4ee48e86be31ce6775"
+        },
+        "arm64": {
+            "url": "https://github.com/sawirricardo/lazysvn/releases/download/v0.4.0/lazysvn_0.4.0_windows_arm64.zip",
+            "bin": [
+                "lazysvn.exe"
+            ],
+            "hash": "88e2bb5fccbd30a3f719f935d65ef0c3052f813db75fc8255ab16ee199ec5fbe"
+        }
+    },
+    "homepage": "https://lazysvn.sawirstudio.com",
+    "license": "MIT",
+    "description": "LazyGit-style terminal UI for Subversion (SVN)."
+}
